@@ -1,0 +1,46 @@
+/* h1{
+    color:rgb(230, 17, 17)
+}
+
+p{
+    color:rgb(46, 2, 2)
+}
+
+button{
+    color:rgb(6, 2, 29);
+    background-color : rgb(55, 255, 0);}
+
+/* body{
+    background-color: #fafa00
+
+} */
+
+
+
+/* * {
+    color:blue
+} */
+
+h1 {
+    color:green;
+}
+button{
+    color:chartreuse;
+}
+
+#headingone {
+    color:yellow;
+}
+
+#headingtwo{
+    color:blueviolet;
+}
+
+#headingthree{
+    color:chocolate;
+}
+
+#headingfour{
+    color:darkgrey
+}
+
